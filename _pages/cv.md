@@ -9,49 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+My official CV is also available as a [PDF](/files/Fasching_resume.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D in Computational Social Science, University of Pennsylvania, 2026 (expected)
+* M.A. in Statistics and Data Science, The Wharton School, University of Pennsylvania, 2024
+* M.S. in Computational Communication Science, University of Amsterdam, 2022
+* B.S. in Political Science and Psychology, University of California Santa Barbara, 2014
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Work experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Co-Teacher for Statistics and Data Science Course (Modern Data Mining)
+  * Jul 2022 - Present
+  * The Wharton School at the University of Pennsylvania
+
+* Computational Research Fellow
+  * Sep 2021 - Present
+  * The University of Pennsylvania
   
 Teaching
 ======
@@ -59,6 +40,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Non-academic interests
 ======
-* Currently signed in to 43 different slack teams
+* Avid rock climber
+* Musician (guitar, synthesizer, flute)
+
