@@ -16,7 +16,7 @@ Education
 * Ph.D in Computational Social Science, University of Pennsylvania, 2026 (expected)
 * M.A. in Statistics and Data Science, The Wharton School, University of Pennsylvania, 2023
 * M.S. in Communication Science, University of Amsterdam, 2021
-* B.S. in Political Science and Psychology, University of California Santa Barbara, 2014
+* B.A. in Political Science and Psychology, University of California Santa Barbara, 2014
 
 Publications
 ======
