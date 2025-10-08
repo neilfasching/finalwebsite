@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My official CV is also available as a [PDF](/files/Fasching_resume.pdf).
+My official CV is also available as a [PDF](/files/fasching-neil-resume.pdf).
 
 Education
 ======
