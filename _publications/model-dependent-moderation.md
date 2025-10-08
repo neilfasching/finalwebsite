@@ -6,7 +6,7 @@ permalink: /publication/model-dependent-moderation
 #excerpt: 'Inconsistencies in Hate Speech Detection Across 7 LLM-based Systems.'
 date: 2025-07-25
 venue: 'Association for Computational Linguistics'
-paperurl: 'https://aclanthology.org/2025.findings-acl.1144.pdf'
+paperurl: 'https://www.neilfasching.com/files/fasching-model-moderation.pdf'
 citation: '<b>Fasching, Neil</b> and Lelkes, Yphtach. (2025). &quot;Model-Dependent Moderation: Inconsistencies in Hate Speech Detection Across LLM-based Systems.&quot; <i>Findings of the Association for Computational Linguistics</i>. pages 22271–22285.'
 ---
 
