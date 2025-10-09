@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My AI Bias CV is available as a [PDF](/files/fasching-ai-resume.pdf).
+My AI Bias CV is available as a [PDF](/files/fasching-ai-resume.pdf). <br>
 My Data Science CV is also available as a [PDF](/files/fasching-ds-resume.pdf).
 
 Education
