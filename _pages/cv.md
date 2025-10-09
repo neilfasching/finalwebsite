@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-My official CV is also available as a [PDF](/files/fasching-neil-resume.pdf).
+My AI Bias CV is available as a [PDF](/files/fasching-ai-resume.pdf).
+My Data Science CV is also available as a [PDF](/files/fasching-ds-resume.pdf).
 
 Education
 ======
