@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+{% comment %} 
 My AI Bias CV is available as a [PDF](/files/fasching-ai-resume.pdf). <br>
-My Data Science CV is also available as a [PDF](/files/fasching-ds-resume.pdf).
+{% endcomment %}
+My CV is also available as a [PDF](/files/fasching-ds-resume.pdf).
 
 Education
 ======
@@ -34,13 +35,15 @@ Work experience
 * Computational Research Fellow
   * Sep 2021 - Present
   * The University of Pennsylvania
-  
+
+{% comment %} 
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+{% endcomment %}
+
 Non-academic interests
 ======
 * Avid rock climber
