@@ -19,4 +19,4 @@ My research interests have shifted toward AI evaluation and bias detection. My c
 {% comment %} 
 My AI Bias CV is available as a [PDF](/files/fasching-ai-resume.pdf). <br>
 {% endcomment %}
-My CV is also available as a [PDF](/files/fasching-ds-resume.pdf).
+My CV is available as a [PDF](/files/fasching-ds-resume.pdf).
