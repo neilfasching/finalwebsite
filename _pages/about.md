@@ -14,7 +14,7 @@ Hello! I’m Neil Fasching. I'm a computational social scientist and a Ph.D. can
 
 My research has focused on public opinion, partisan animosity, political communication, and open science practices, with publications in *Science Advances*, *British Journal of Political Science*, *Journal of Communication*, *Journal of Personality*, and *Political Psychology*, among others. This work developed my expertise in experimental design, causal inference, statistical modeling, machine learning, and natural language processing.
 
-I'm also interested in AI evaluation and bias detection, auditing large language models to uncover systemic biases. For example, I recently published research at *ACL* on AI bias in hate speech detection (HSD). 
+I'm also interested in AI evaluation and bias detection, auditing large language models to uncover systemic biases. For example, my recent publication at *ACL* highlighted large disparities in hate speech detection (HSD) across seven LLM-based systems. 
 
 My PhD dissertation combines these two research interests and examines topic diversity, misinformation, and toxicity on popular political podcasts. I utilize and validate LLM-based models for tasks ranging from transcription and classification to content moderation and textual embeddings.
 
