@@ -16,7 +16,7 @@ My research has focused on public opinion, partisan animosity, political communi
 
 I'm also interested in AI evaluation and bias detection, auditing large language models to uncover systemic biases. For example, I recently published research at *ACL* on AI bias in hate speech detection (HSD). 
 
-My PhD dissertation compares these two research interests and topic diversity, misinformation, and toxicity on popular political podcasts, utilizing and validating models for tasks ranging from transcription and classification to content moderation and textual embeddings.
+My PhD dissertation combines these two research interests and examines topic diversity, misinformation, and toxicity on popular political podcasts. I utilize and validate LLM-based models for tasks ranging from transcription and classification to content moderation and textual embeddings.
 
 {% comment %} 
 My AI Bias CV is available as a [PDF](/files/fasching-ai-resume.pdf). <br>
