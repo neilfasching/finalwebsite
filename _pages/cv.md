@@ -15,10 +15,10 @@ My CV is also available as a [PDF](/files/fasching-ds-resume.pdf).
 
 Education
 ======
-* Ph.D in Communication (Computational Social Science), University of Pennsylvania, 2025/2026 (expected)
-* M.A. in Statistics and Data Science, The Wharton School, University of Pennsylvania, 2023
-* M.S. in Communication Science, University of Amsterdam, 2021
-* B.A. in Political Science and Psychology, University of California Santa Barbara, 2014
+* Ph.D. in Communication (Computational Social Science), University of Pennsylvania, 2025/2026 (expected)
+* Master's in Statistics and Data Science, The Wharton School, University of Pennsylvania, 2023
+* Master's in Communication Science, University of Amsterdam, 2021
+* Bachelor's in Political Science and Psychology, University of California Santa Barbara, 2014
 
 Publications
 ======
