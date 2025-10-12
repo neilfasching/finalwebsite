@@ -11,7 +11,7 @@ redirect_from:
 {% comment %} 
 My AI Bias CV is available as a [PDF](/files/fasching-ai-resume.pdf). <br>
 {% endcomment %}
-My CV is also available as a [PDF](/files/fasching-ds-resume.pdf).
+My CV is also available as a [PDF](/files/fasching-resume.pdf).
 
 Education
 ======

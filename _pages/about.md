@@ -21,4 +21,4 @@ My PhD dissertation combines these two research interests and examines topic div
 {% comment %} 
 My AI Bias CV is available as a [PDF](/files/fasching-ai-resume.pdf). <br>
 {% endcomment %}
-My CV is available as a [PDF](/files/fasching-ds-resume.pdf).
+My CV is available as a [PDF](/files/fasching-resume.pdf).
